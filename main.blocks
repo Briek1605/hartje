@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="every_interval" id="2Azq=!`Ix)_`1Li^dElE" x="0" y="0"><value name="interval"><shadow type="longTimePicker" id="lBng0%;QdY7x#m2tXWAo"><field name="ms">100</field></shadow></value><statement name="HANDLER"><block type="device_show_leds" id="C3;/.UL)O63l;x(~YbY}"><field name="LEDS">`
+        . # . # . 
+        # # # # # 
+        # # # # # 
+        . # # # . 
+        . . # . .
+        `</field></block></statement></block></xml>
